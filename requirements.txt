@@ -1,0 +1,11 @@
+imutils==0.5.3
+joblib==0.17.0
+libsvm==3.23.0.4
+matplotlib==3.2.0
+numpy==1.19.3
+opencv-python==4.4.0.46
+Pillow==8.0.1
+scikit-image==0.17.2
+scikit-learn==0.23.2
+scikit-optimize==0.8.1
+scipy==1.5.4
