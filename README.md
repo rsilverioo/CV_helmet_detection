@@ -1,4 +1,4 @@
-# Computer vision algorithm for hardhat detection.
+# Computer vision algorithm for hardhat detection
 
 In this project, a computer vision algorithm for hardhat detection has been created by combining several techniques. The algorithm is divided into two parts, the first part being an identification of all persons in an image using SVM+HOG for the detection of persons and heads. And then a second detection of whether the detected person is wearing a helmet or not using Circle Hough Transform with Canny's algorithm to detect heads and finally colour detection in HSV space for helmet detection.
 
